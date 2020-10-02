@@ -44,17 +44,6 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* This cotains the CSS for any anchors/links */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* This contains CSS for any <p> elements */
-p {
-    font-size: 16px;
-}
-
 /* This contains CSS for the hero image that displays under the header and 
     nav bar 
     */
@@ -66,6 +55,19 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* This cotains the CSS for any anchors/links */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* This contains CSS for any <p> elements */
+p {
+    font-size: 16px;
+}
+
+
 
 /* These are the floats for images in the articles */
 .float-left {
